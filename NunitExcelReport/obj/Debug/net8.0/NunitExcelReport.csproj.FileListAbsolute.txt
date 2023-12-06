@@ -1,0 +1,13 @@
+C:\Users\Noncsi\source\repos\unit-testing-using-nunit\NunitExcelReport\obj\Debug\net8.0\NunitExcelReport.csproj.AssemblyReference.cache
+C:\Users\Noncsi\source\repos\unit-testing-using-nunit\NunitExcelReport\obj\Debug\net8.0\NunitExcelReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noncsi\source\repos\unit-testing-using-nunit\NunitExcelReport\obj\Debug\net8.0\NunitExcelReport.AssemblyInfoInputs.cache
+C:\Users\Noncsi\source\repos\unit-testing-using-nunit\NunitExcelReport\obj\Debug\net8.0\NunitExcelReport.AssemblyInfo.cs
+C:\Users\Noncsi\source\repos\unit-testing-using-nunit\NunitExcelReport\obj\Debug\net8.0\NunitExcelReport.csproj.CoreCompileInputs.cache
+C:\Users\Noncsi\source\repos\unit-testing-using-nunit\NunitExcelReport\bin\Debug\net8.0\NunitExcelReport.dll.config
+C:\Users\Noncsi\source\repos\unit-testing-using-nunit\NunitExcelReport\bin\Debug\net8.0\NunitExcelReport.deps.json
+C:\Users\Noncsi\source\repos\unit-testing-using-nunit\NunitExcelReport\bin\Debug\net8.0\NunitExcelReport.dll
+C:\Users\Noncsi\source\repos\unit-testing-using-nunit\NunitExcelReport\bin\Debug\net8.0\NunitExcelReport.pdb
+C:\Users\Noncsi\source\repos\unit-testing-using-nunit\NunitExcelReport\obj\Debug\net8.0\NunitExcelReport.dll
+C:\Users\Noncsi\source\repos\unit-testing-using-nunit\NunitExcelReport\obj\Debug\net8.0\refint\NunitExcelReport.dll
+C:\Users\Noncsi\source\repos\unit-testing-using-nunit\NunitExcelReport\obj\Debug\net8.0\NunitExcelReport.pdb
+C:\Users\Noncsi\source\repos\unit-testing-using-nunit\NunitExcelReport\obj\Debug\net8.0\ref\NunitExcelReport.dll
